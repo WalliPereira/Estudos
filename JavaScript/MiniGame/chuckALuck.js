@@ -1,3 +1,5 @@
+// OBJETIVO: O jogador deve apostar em um número e ganhar se esse número aparecer entre os dados lançados. Caso contrário, ele perde. bem simples.
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
