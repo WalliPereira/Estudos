@@ -40,3 +40,6 @@ function jogoDeCraps() {
 }
 
 jogoDeCraps();
+
+
+// MiniGame somente no Backend
